@@ -34,7 +34,7 @@ class TutorialHome extends StatelessWidget {
       ),
       // body is the majority of the screen.
       body: const Center(
-        child: Text('Bem Vindos'),
+        child: Text('Sejam Bem Vindos'),
       ),
       floatingActionButton: const FloatingActionButton(
         tooltip: 'Add', // used by assistive technologies
