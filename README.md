@@ -34,6 +34,6 @@ E após realizar cada cálculo na parte superior direita tem um botão que limpa
 
 Esse aplicativo é pequeno e fácil, seguindo os passos acima, com ou sem a presença do Professor você, pode realizar  as atividades com êxito.
 
-# O Aplicativo já está publicado na loja oficial da Google Clique Aqui.
+# O Aplicativo já está publicado na loja oficial da Google [Clique Aqui](https://play.google.com/store/apps/details?id=com.programeparaandroid.funcao_do_primeirograu)
 
 
