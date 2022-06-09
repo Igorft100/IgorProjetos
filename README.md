@@ -36,4 +36,11 @@ Esse aplicativo é pequeno e fácil, seguindo os passos acima, com ou sem a pres
 
 # O Aplicativo já está publicado na loja oficial da Google [Clique Aqui](https://play.google.com/store/apps/details?id=com.programeparaandroid.funcao_do_primeirograu)
 
+# Árvore da tela do aplicativo
+
+![DOCUMENTAÇÃO DA ÁRVORE](https://user-images.githubusercontent.com/102415704/172918229-c5c2cfae-abad-4624-b4ab-629b8eadbd96.jpg)
+
+# Logo marca do aplicativo
+
+![FUNÇÃO DO 1ª GRAU](https://user-images.githubusercontent.com/102415704/172918756-31cace24-7d06-4b41-af26-9a760e9cf9e6.jpg)
 
