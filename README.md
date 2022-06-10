@@ -45,7 +45,8 @@ Esse aplicativo é pequeno e fácil, seguindo os passos acima, com ou sem a pres
 ![FUNÇÃO DO 1ª GRAU](https://user-images.githubusercontent.com/102415704/172918756-31cace24-7d06-4b41-af26-9a760e9cf9e6.jpg)
 
 # Vídeo de demonstrando do Aplicativo
-Clique na imagem a baixo, para visualizar.
+Para visualizar o vídeo abaixo [Clique aqui.](https://www.youtube.com/watch?v=FwwaHMWpYpk)
 
 ![Youtube](https://user-images.githubusercontent.com/102415704/172920380-9e5b434b-d888-47f9-a6a0-de9375efc4bf.jpg)
+
 
